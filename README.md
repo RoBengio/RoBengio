@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoBengio
-- 👀 I’m interested in  Study programming
+- 👀 I’m interested in programming python
 - 🌱 I’m currently learning programming Python 
 - 💞️ I’m looking to collaborate on my classmates in the programming course
 - 📫 How to reach me ...
